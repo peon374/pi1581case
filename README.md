@@ -1,3 +1,5 @@
+![Test render](./docs/case.jpg)
+
 # PI1581 Case 
 
 This project is building on from the great work in the 1541 project. It is under construction. I plan to have a PCB hat included that can be completely assembled by JLCPCB with parts from anywhere.
